@@ -90,12 +90,12 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://13.233.94.160:8081/repository/paytm-releases/</url>
+	      <url>http://13.233.105.32:8081/repository/suresh-maven-releases/</url>
 	    </repository>
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://13.233.94.160:8081/repository/paytm-snapshots/</url>
+	      <url>http://13.233.105.32:8081/repository/suresh-maven-snapshots/</url>
 	    </snapshotRepository>
 	</distributionManagement>
 	
