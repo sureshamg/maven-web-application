@@ -1,2 +1,2 @@
-FROM tomcat:8.0.20-jre8
+FROM 13.126.148.104:8083/tomcat:8.0.20-jre8
 COPY target/*.war /usr/local/tomcat/webapps/
